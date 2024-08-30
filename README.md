@@ -3,7 +3,7 @@
 
 
 > [!WARNING]
-> This tool is a hackathon project and is still a work in progress. It has not been thoroughly tested in production environments, and significant breaking changes may occur. This is a pre-release, serving as a proof of concept, and it is not recommended for use in any critical or production use cases.
+> This tool is a [Biohackathon](http://2024.biohackathon.org) project and is still a work in progress. It has not been thoroughly tested in production environments, and significant breaking changes may occur. This is a pre-release, serving as a proof of concept, and it is not recommended for use in any critical or production use cases.
 
 **SRAmetaDBB** is an open-source pipeline for generating and updating an SQLite database that aggregates the Sequence Read Archive (SRA) metadata. This project aims to provide an efficient and versatile tool for accessing SRA metadata offline, enabling researchers to perform data analysis and exploration with ease.
 
