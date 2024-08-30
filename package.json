@@ -1,0 +1,25 @@
+{
+  "name": "srameta-dbb",
+  "version": "0.1.0-alpha.1",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nishad Thalhath <nishad@thalhath.org> (https://nishad.thalhath.org/)",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "@clack/prompts": "0.7.0",
+    "axios": "1.7.5",
+    "easydl": "1.2.0",
+    "figlet": "1.7.0",
+    "fs-extra": "11.2.0",
+    "ora": "8.1.0",
+    "better-sqlite3": "11.2.1",
+    "gunzip-maybe": "1.4.2",
+    "p-queue": "8.0.1",
+    "tar-stream": "3.1.7"
+  }
+}
